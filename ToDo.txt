@@ -1,2 +1,6 @@
 teste teste
+<<<<<<< HEAD
 teste12
+=======
+teste123
+>>>>>>> ramo1
